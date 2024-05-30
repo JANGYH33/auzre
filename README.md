@@ -1,0 +1,2 @@
+# auzre
+Azure OpenAPI
